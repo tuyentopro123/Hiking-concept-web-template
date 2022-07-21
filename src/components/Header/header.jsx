@@ -22,7 +22,6 @@ const Header = () => {
                         right-0 
                         bottom-0
                         bg-shadow1
-                        md:bg-contain
                         bg-cover
                         z-10
                         ">
